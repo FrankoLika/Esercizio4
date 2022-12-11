@@ -1,0 +1,161 @@
+#logoamazon{
+    background-color: #222f3e;
+    width: 100%;
+    height: 45px;
+}
+#logo{
+    padding-left: 15px;
+    display: block;
+    width: 100px;
+    padding-top: 5px;
+}
+#librerie{
+    background-color: #3a5069;
+    height: 25px;
+}
+#libr{
+    padding-left: 15px;
+    padding-top: 3px;
+    color: white;
+}
+
+#body{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    background-color: #f3f9ff;
+    
+    
+}
+#gift{
+    background-color: rgb(255, 102, 0);
+    height: 25px;
+}
+#testogift{
+    text-align: center;
+    color: white;
+    padding-top: 3px;
+}
+
+#img{
+    background-image: url(assetsamazon/bg-image.png);
+    height: 130px;
+    width: 100%;
+    margin-top: 20px;
+}
+#textimg{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20pt;
+    text-align: center;
+    color: white;
+    padding-top: 45px;
+}
+#textimg2{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+.link{
+    text-decoration: none;
+    color: #cf5757;
+}
+#corpo{
+    background-color: white;
+    padding-bottom: 15px;
+}
+#paragrafo{
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.immagini{
+    width: 280px;
+    height: 280px;
+    margin-left: 10px;
+    border-radius: 15px;
+}
+#contenitore{
+    display: flex;
+    justify-content: space-around;
+}
+.imglunga{
+    width: 100%;
+    margin-top: 20px;
+}
+.testobasso{
+    text-align: center;
+
+}
+#backt{
+    margin-top: 15px;
+    background-color: #3a5069;
+    height: 30px;
+}
+#linktop{
+    text-align: center;
+    padding-top: 4px;
+}
+#linktop1{
+    color: white;
+}
+#amazonsotto{
+    background-color: #222f3e;
+    height: 120px;
+    text-align: center;
+}
+#logosotto{
+    width: 120px;
+    padding-top: 45px;
+}
+
+.contenitore4card{
+    width: 100%;
+    height: 380px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+.contenitore4img{
+    background-color: rgb(255, 255, 255);
+
+}
+.imgsingola{
+    width: 115px;
+    margin-left: 15px;
+    padding-right: 10px; 
+}
+.titolocard{
+    padding-left: 20px;
+}
+.nome1{
+    margin-left: 15px;
+}
+#nome2{
+    margin-left: 80px;
+}
+#nome4{
+    margin-left: 40px;
+}
+#nome6{
+    margin-left: 65px;
+}
+#nome8{
+    margin-left: 74px;
+}
+#nome10{
+    margin-left: 68px;
+}
+#nome12{
+    margin-left: 109px ;
+}
+#nome14{
+    margin-left: 39px ;
+}
+#nome16{
+    margin-left: 68px;
+}
+.linksotto{
+    margin-left: 20px;
+    margin-top: 20px;
+}
